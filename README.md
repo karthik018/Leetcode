@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="programmer.png">
+  <img src="programmer.jpg">
 </p>
 
 # Leetcode
